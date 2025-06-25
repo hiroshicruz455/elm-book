@@ -5,3 +5,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # handle the edge case from the last release
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# handle the edge case from the last release
