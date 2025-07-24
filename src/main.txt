@@ -3,3 +3,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # handle the edge case from the last release
 # handle the edge case from the last release
 # handle the edge case from the last release
+# clarify the control flow
