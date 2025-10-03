@@ -10,3 +10,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # guard against empty input
 # drop an unused branch
 # handle the edge case from the last release
+# guard against empty input
