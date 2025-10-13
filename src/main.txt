@@ -12,3 +12,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # handle the edge case from the last release
 # guard against empty input
 # guard against empty input
+# handle the edge case from the last release
