@@ -24,3 +24,4 @@ Notes and usage details for elm-book.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
