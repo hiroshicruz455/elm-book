@@ -34,3 +34,4 @@ Notes and usage details for elm-book.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
