@@ -33,3 +33,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # handle the edge case from the last release
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
